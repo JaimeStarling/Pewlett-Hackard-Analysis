@@ -20,7 +20,10 @@ Using employee data, we have determined how many employees at Pewlett Hackard ar
 ## Summary
 Losing nearly one third of the people at Pewlett Hackard is not the only problem nor is it something just for human resources to ponder. Pewlett Hackard could potentially lose decades’ worth of institutional knowledge, all within a few years. Action is required immediately, and one suggestion is to offer promotion for those in the retirement category who are not holding senior positions They can even participate in the mentorship program until there is an opening among senior positions if departments run by “first in, first out.”. This may encourage them to stay a little longer, saving some time and money on turnovers.
 
-Pewlett Hackard will want to address the salary discrepancies shown in this figure. Some lower-ranking engineers are being paid more than senior engineers, for example, and such information often leaks to other employees, causing frustration and more interest in retiring or leaving for another company.
+Pewlett Hackard will want to address the salary discrepancies shown in this figure. 
+
+
+Some lower-ranking engineers are being paid more than senior engineers, for example, and such information often leaks to other employees, causing frustration and more interest in retiring or leaving for another company.
 
 If all of the employees born in 1965 are interested in the mentorship program, that is already ten percent or so of coverage in some departments, as seen in this figure. And thankfully Pewlett Hackard did not stop hiring anyone born after 1965. Early-GenXers are going to bring larger numbers to the mentorship program if expanded to them.
 
