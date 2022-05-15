@@ -9,10 +9,12 @@ Using employee data, we have determined how many employees at Pewlett Hackard ar
 - Of Pewlett Hackard’s current “Late-Boomer” employees, born between 1952 and 1965, 72,458 (30%) were born between 1952 and 1955, putting them in or nearing retirement age. 
 
 - Each department that includes both engineers and supporting staff will be the worst affected as the majority of potential retirees are from those categories. In the figure below, engineers make up 36,291 of employees who could soon leave, and staff make up 32,562. 
+
 ![This is an image](https://github.com/JaimeStarling/Pewlett-Hackard-Analysis/blob/main/PH%20count%20by%20title.png)
 
 - In searching for potential candidates for the mentorship program, we took a sample of employees born in the year 1965, a good ten years later than the youngest potential retiree. In the figure below, there are 1,549 employees born in 1965, of which 748 in engineering qualify and 724 in supporting staff qualify.
 
+![This is an image](https://github.com/JaimeStarling/Pewlett-Hackard-Analysis/blob/main/PH%20Mentors%20by%20Title%20Count.png)
 - More than half of the 1965-born qualifying engineers are due for promotion, and just under half of the 1965-born qualifying staff are due for promotion. These will be the ones more interested in the mentorship program, and may work a little longer than they personally planned once promoted.
 
 ## Summary
