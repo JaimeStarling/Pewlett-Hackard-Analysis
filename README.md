@@ -27,5 +27,7 @@ Some lower-ranking engineers are being paid more than senior engineers, for exam
 
 If all of the employees born in 1965 are interested in the mentorship program, that is already ten percent or so of coverage in some departments, as seen in this figure. 
 
+![This is an image](https://github.com/JaimeStarling/Pewlett-Hackard-Analysis/blob/main/depts%20ret%20mentor.png)
+
 And thankfully Pewlett Hackard did not stop hiring anyone born after 1965. Early-GenXers are going to bring larger numbers to the mentorship program if expanded to them.
 
